@@ -4,5 +4,4 @@ const tipo = function (x) {
 };
 
 
-
 console.log('✅')
